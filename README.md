@@ -1,4 +1,4 @@
-# Task 4 - Automated Jenkins Job Triggered by Access Log Size
+Automated Jenkins Job Triggered by Access Log Size
 
 ## Overview
 Automates log file management by triggering a Jenkins job when the log exceeds 1GB.
